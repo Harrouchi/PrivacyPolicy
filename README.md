@@ -1,0 +1,2 @@
+# PrivacyPolicy
+Règles de confidentialité
